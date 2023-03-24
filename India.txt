@@ -1,0 +1,12 @@
+Name		            Age	 	 Ballers
+Mayank Agarwal	        30	     Ravichandran Ashwin
+Ravichandran Ashwin     35	  	 Deepak Chahar
+Jasprit Bumrah	        27	  	 Shikhar Dhawan
+Yuzvendra Chahal        31	  	 Ishan Kishan
+Deepak Chahar	        29	  	 Kuldeep Yadav
+Shikhar Dhawan	        22
+Ruturaj Gaikwad	        24
+Ishan Kishan	        23
+Virat Kholi	            33
+Kuldeep Yadav	        26
+Mohammed Siraj	        31

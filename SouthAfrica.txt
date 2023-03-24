@@ -1,0 +1,12 @@
+Name		        Age		Ballers
+Temba Bavuma	    31	 	Junior Dala
+Junior Dala	        31	 	Dean Elgar
+Quinton De Kock	    28	 	Bjorn Fortuin
+Faf du Plessis	    37	 	George Linde
+Dean Elgar	        34	 	Sisanda Magala
+Bjorn Fortuin	    27
+Beuran Hendricks    31
+Heinrich Klaasen    30
+George Linde	    29
+Sisanda Magala	    30
+Keshav Maharaj	    31
